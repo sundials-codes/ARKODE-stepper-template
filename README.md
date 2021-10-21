@@ -12,7 +12,7 @@ New time-stepping modules for ARKODE cannot be submitted via pull requests to ei
 
 ## Authors ##
 
-This template repository has been developed by Daniel R. Reynolds.
+This template repository has been developed by [Daniel R. Reynolds](https://github.com/drreynolds).
 
 ## License ##
 
